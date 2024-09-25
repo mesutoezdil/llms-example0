@@ -154,4 +154,4 @@ This will output a response based on the prompt you provided.
 
 ## **Conclusion**
 
-This project demonstrates how to integrate with the Prediction Guard API to generate text completions using Go. By customizing prompts and parameters, you can produce varied outputs and explore the potential of the models available through the API. The flexibility of the API allows for a wide range of applications, from content generation to answering questions.
+This project demonstrates how to integrate with the Prediction Guard API to create text completion using Go by customizing prompts and parameters. You can create a variety of outputs and explore the capabilities of the models available through the API. The flexibility of the API allows for a wide range of applications. From creating content to answering questions.
