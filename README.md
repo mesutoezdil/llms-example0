@@ -1,6 +1,6 @@
 # **Prediction Guard API: Exploring Capabilities with Go**
 
-This project explores the capabilities of the Prediction Guard API using Go. It demonstrates how to interact with the API to generate text completions using various models, how to customize prompts to obtain different outputs, and discusses the flexibility of the API in producing creative or predictable results.
+This project explores the potential of the Prediction Guard API using Go. It discusses how to interact with the API to create text completion using different models. How to customize prompts to achieve different results and the API's flexibility to produce creative or predictable results.
 
 ## **Project Overview**
 
